@@ -37,6 +37,7 @@
   "Anonym-tsk/lovelace-starline-card",
   "Anrolosia/Shopping-List-with-Grocy-Card",
   "AnthonMS/my-cards",
+  "apassias/energy-horizon-card",
   "arallsopp/hass-hue-icons",
   "argaar/comfortable-environment-card",
   "artem-sedykh/mini-climate-card",
@@ -771,5 +772,4 @@
   "zanna-37/hass-swipe-navigation",
   "Zarvinx/statistics-table-card",
   "zeronounours/lovelace-energy-entity-row"
-  "apassias/energy-horizon-card",
 ]
